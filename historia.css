@@ -1,0 +1,137 @@
+.navbarnavbarexpandlgbgbodytertiary{
+    background-color: rgb(59, 95, 121);
+    padding-bottom: 1%;
+}
+.navbarnavbarexpandlgbgbodytertiary img{
+    width: 5%;
+    height: auto;
+    margin-left: 5%;
+}
+
+
+
+
+
+
+
+
+.navlink{
+    color: white;
+   
+   
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 400%;
+    padding: 7%;
+   
+   
+   
+   
+}
+.navbarbrand{
+    color: white;
+    font-size: 500%;
+    padding: 0px;
+}
+a{
+    color: #3366cc;
+
+
+
+
+}
+
+
+
+
+a:visited {
+    color: #ffffff;
+}
+a:hover {
+    color: #fbd9d9;
+}
+ul{
+    list-style-type: none;  }
+ body{
+    background-color: #ffffff;
+ }  
+ .titulo{
+    text-align: center;
+    font-size: 700%;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    color: #0a0058;
+ }
+ .lista{
+    font-size: 500%;
+    text-align: center;
+    color: #0a0058;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    max-width: 70%;
+    padding-left: 15%;
+    padding-bottom: 10%;
+ }
+ 
+ 
+ 
+ .trueque{
+    font-size: 400%;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    color: #0a0058; 
+    max-width: 30%;
+    padding-left: 10%;
+ }
+ .contenedortru{
+    display: flex;
+    align-items: center;
+    padding-bottom: 7%;
+ }
+ .truequeimg{
+    padding-left: 10%;
+    width: 45%;
+ }
+ 
+ 
+ 
+ 
+ .mercancia{
+    font-size: 400%;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    color: #0a0058; 
+    max-width: 30%;
+    padding-left: 10%;
+ }
+ .contenedormer{
+    display: flex;
+    align-items: center;
+    padding-bottom: 7%;
+ }
+ .mercanciaimg{
+    padding-left: 10%;
+    width: 25%;
+ }
+
+
+ .monedasimg{
+    width: 10%;
+    padding-left: 15%;
+ }
+ .papelimg{
+    padding-left: 10%;
+ }
+ .fiduciarioimg{
+    width: 35%;
+    padding-left: 10%;
+ }
+ .dinerodigitalimg{
+    width: 35%;
+    padding-left: 10%;
+ }
+ .criptoimg{
+    width: 27%;
+    padding-left: 10%;
+ }
+ .btn{
+   background-color:#3366cc;
+   margin-left: 12%;
+   border: 3px solid black;
+   }

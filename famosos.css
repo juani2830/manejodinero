@@ -1,0 +1,160 @@
+.navbarnavbarexpandlgbgbodytertiary{
+    background-color: rgb(59, 95, 121);
+    padding-bottom: 1%;
+}
+.navbarnavbarexpandlgbgbodytertiary img{
+    width: 5%;
+    height: auto;
+    margin-left: 5%;
+}
+
+
+
+
+
+
+
+
+.navlink{
+    color: white;
+   
+   
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 400%;
+    padding: 7%;
+   
+   
+   
+   
+}
+.navbarbrand{
+    color: white;
+    font-size: 500%;
+    padding: 0px;
+}
+a{
+    color: #3366cc;
+
+
+
+
+}
+
+
+
+
+a:visited {
+    color: #ffffff;
+}
+a:hover {
+    color: #fbd9d9;
+}
+ul{
+    list-style-type: none;  }
+ body{
+    background-color: #ffffff;
+ }  
+ .titulo{
+    font-size: 700%;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    text-align: center;
+    color: #0a0058;
+
+ }
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ .importante{
+    font-size: 120%;
+    color: #000000;
+    }
+.frase{
+    color: #0a0058;
+    font-size: 500%;
+    max-width: 30%;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    padding-left: 15%;
+    text-align: right;
+    padding-bottom: 5%;
+ }
+.contenedor{
+    display: flex;
+    align-items: center;
+ }
+ .imagen{
+    padding-left: 5%;
+ }
+
+ 
+ 
+ 
+ .importante2{
+    font-size: 120%;
+    color: #000000;
+    
+ }
+ .frase2{
+    color: #0a0058;
+    font-size: 500%;
+    max-width: 30%;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    padding-left: 5%;
+    padding-bottom: 5%;
+   
+ }
+ .contenedor2{
+    display: flex;
+    align-items: center;
+ }
+ .imagen2{
+    padding-left: 20%;
+    width: 25%;
+ }
+ .imagen3{
+    padding-left: 5%;
+    width: 45%;
+ }
+ .imagen4{
+    padding-left: 5%;
+    width: 45%;
+    
+ }
+ .btn{
+   background-color:#3366cc;
+   margin-left: 12%;
+   border: 3px solid black;
+   }
+
+
+
+
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+  
+   

@@ -1,0 +1,125 @@
+.navbarnavbarexpandlgbgbodytertiary{
+    background-color: rgb(59, 95, 121);
+    padding-bottom: 1%;
+}
+.navbarnavbarexpandlgbgbodytertiary img{
+    width: 5%;
+    height: auto;
+    margin-left: 5%;
+}
+
+
+
+
+
+
+
+
+.navlink{
+    color: white;
+   
+   
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 400%;
+    padding: 7%;
+   
+   
+   
+   
+}
+.navbarbrand{
+    color: white;
+    font-size: 500%;
+    padding: 0px;
+}
+a{
+    color: #3366cc;
+
+
+
+
+}
+
+
+
+
+a:visited {
+    color: #ffffff;
+}
+a:hover {
+    color: #fbd9d9; }
+    body{
+        background-color: #ffffff;
+    }
+    h1{
+        text-align: center;
+    font-size: 700%;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    color: #0a0058;
+    }
+    .mercadopago{
+        text-align: center;
+        color: #0a0058;
+        font-size: 500%;
+        font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    }
+    .desc{
+        text-align: center;
+        color: #0a0058;
+        font-size: 400%;
+        font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+        max-width: 40%;
+        padding-left: 30%;
+    }
+    .lista{
+        text-align: center;
+        color: #0a0058;
+        font-size: 400%;
+        font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+        max-width: 40%;
+        padding-left: 30%;
+       list-style-type: none;
+       
+    }
+    li{padding-bottom: 5%;}
+    
+        
+  
+    
+    .tituuala{text-align: center;
+        color: #0a0058;
+        font-size: 500%;
+        font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;}
+        .imagenuala{
+            padding-left: 40%;
+            padding-bottom: 5%;
+        }
+        .imagenmercado{
+            padding-left: 33%;
+            width: 33%;
+            
+        }
+        .titujunior{
+            color: #0a0058;
+        font-size: 500%;
+        font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+        }
+        .juniorimg{
+            padding-left: 35%;
+            padding-bottom: 5%;
+        }
+        .bcotitu{
+            color: #0a0058;
+            font-size: 500%;
+            font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+        }
+        .bcoimg{
+            width: 30%;
+            padding-left: 35%;
+        }
+       .btn{
+       background-color:#3366cc;
+       margin-left: 12%;
+       border: 3px solid black;
+       }
