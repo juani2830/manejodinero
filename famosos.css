@@ -21,7 +21,7 @@
    
     text-decoration: none;
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-    font-size: 400%;
+    font-size: 130%;
     padding: 7%;
    
    
@@ -30,7 +30,7 @@
 }
 .navbarbrand{
     color: white;
-    font-size: 500%;
+    font-size: 200%;
     padding: 0px;
 }
 a{
@@ -56,7 +56,7 @@ ul{
     background-color: #ffffff;
  }  
  .titulo{
-    font-size: 700%;
+    font-size: 300%;
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
     text-align: center;
     color: #0a0058;
@@ -70,12 +70,12 @@ ul{
  
  
  .importante{
-    font-size: 120%;
+    font-size: 150%;
     color: #000000;
     }
 .frase{
     color: #0a0058;
-    font-size: 500%;
+    font-size: 200%;
     max-width: 30%;
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
     padding-left: 15%;
@@ -88,6 +88,7 @@ ul{
  }
  .imagen{
     padding-left: 5%;
+    width: 40%;
  }
 
  
@@ -100,7 +101,7 @@ ul{
  }
  .frase2{
     color: #0a0058;
-    font-size: 500%;
+    font-size: 200%;
     max-width: 30%;
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
     padding-left: 5%;
@@ -114,6 +115,7 @@ ul{
  .imagen2{
     padding-left: 20%;
     width: 25%;
+    padding-bottom: 5%;
  }
  .imagen3{
     padding-left: 5%;

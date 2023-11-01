@@ -21,7 +21,7 @@
    
     text-decoration: none;
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-    font-size: 400%;
+    font-size: 130%;
     padding: 7%;
    
    
@@ -30,7 +30,7 @@
 }
 .navbarbrand{
     color: white;
-    font-size: 500%;
+    font-size: 200%;
     padding: 0px;
 }
 a{
@@ -57,26 +57,26 @@ ul{
  }  
  .titulo{
     text-align: center;
-    font-size: 700%;
+    font-size: 300%;
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-    color: #0a0058;
+    color: #05002c;
  }
  .lista{
-    font-size: 500%;
+    font-size:150%;
     text-align: center;
-    color: #0a0058;
+    color: #06002e;
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-    max-width: 70%;
-    padding-left: 15%;
-    padding-bottom: 10%;
+    max-width: 30%;
+    padding-left: 34%;
+    padding-bottom: 5%;
  }
  
  
  
  .trueque{
-    font-size: 400%;
+    font-size: 200%;
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-    color: #0a0058; 
+    color: #060032; 
     max-width: 30%;
     padding-left: 10%;
  }
@@ -94,9 +94,9 @@ ul{
  
  
  .mercancia{
-    font-size: 400%;
+    font-size: 200%;
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-    color: #0a0058; 
+    color: #08013d; 
     max-width: 30%;
     padding-left: 10%;
  }
@@ -117,6 +117,7 @@ ul{
  }
  .papelimg{
     padding-left: 10%;
+    width: 40%;
  }
  .fiduciarioimg{
     width: 35%;

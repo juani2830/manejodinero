@@ -1,5 +1,5 @@
 .tituloprincipal {
-    font-size: 900%;
+    font-size: 200%;
     font-family: "Roboto", Arial, sans-serif;
     text-align: center;
     background-image: url(https://media.istockphoto.com/id/917626742/es/vector/banner-con-dinero-embalaje-en-paquetes-de-billetes-de-banco-en-fondo-blanco.jpg?s=1024x1024&w=is&k=20&c=z9KoFx4CnwtAG_pt0A1JulFAr-QNpYzvHxjOiHxeP6E=);
@@ -19,7 +19,7 @@
 
 }
 .introduccion {
-    font-size: 400%;
+    font-size: 150%;
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
     text-align: center;
     color: white;
@@ -45,7 +45,7 @@ body{
 }
 .lista{
     color: rgb(250, 192, 192);
-    font-size: 710%;
+    font-size: 200%;
     text-align: center;
     margin: 0 auto;
     padding: 2%;
@@ -55,7 +55,7 @@ body{
 }
 .consejo{
     color: rgb(255, 255, 255);
-    font-size: 50%;
+    font-size: 100%;
     text-align: center;
    padding: 0,4%;
     max-width: 50%;
@@ -105,7 +105,7 @@ ul{
        
         text-decoration: none;
         font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-        font-size: 400%;
+        font-size: 130%;
         padding: 7%;
        
        
@@ -114,11 +114,11 @@ ul{
     }
     .navbarbrand{
         color: white;
-        font-size: 500%;
+        font-size: 100%;
         padding: 0px;
     }
     .hola{
-        font-size: 370%;
+        font-size: 170%;
         font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
         color: white;
         text-align: center;

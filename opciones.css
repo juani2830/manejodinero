@@ -21,7 +21,7 @@
    
     text-decoration: none;
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-    font-size: 400%;
+    font-size: 130%;
     padding: 7%;
    
    
@@ -30,7 +30,7 @@
 }
 .navbarbrand{
     color: white;
-    font-size: 500%;
+    font-size: 200%;
     padding: 0px;
 }
 a{
@@ -54,20 +54,20 @@ a:hover {
     }
     h1{
         text-align: center;
-    font-size: 700%;
+    font-size: 200%;
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
     color: #0a0058;
     }
     .mercadopago{
         text-align: center;
         color: #0a0058;
-        font-size: 500%;
+        font-size: 300%;
         font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
     }
     .desc{
         text-align: center;
         color: #0a0058;
-        font-size: 400%;
+        font-size: 150%;
         font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
         max-width: 40%;
         padding-left: 30%;
@@ -75,7 +75,7 @@ a:hover {
     .lista{
         text-align: center;
         color: #0a0058;
-        font-size: 400%;
+        font-size: 150%;
         font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
         max-width: 40%;
         padding-left: 30%;
@@ -92,8 +92,9 @@ a:hover {
         font-size: 500%;
         font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;}
         .imagenuala{
-            padding-left: 40%;
+            padding-left: 30%;
             padding-bottom: 5%;
+            width: 40%;
         }
         .imagenmercado{
             padding-left: 33%;
@@ -106,8 +107,9 @@ a:hover {
         font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
         }
         .juniorimg{
-            padding-left: 35%;
+            padding-left: 30%;
             padding-bottom: 5%;
+            width: 40%;
         }
         .bcotitu{
             color: #0a0058;
